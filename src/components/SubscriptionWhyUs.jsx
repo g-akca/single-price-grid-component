@@ -1,6 +1,6 @@
 function SubscriptionWhyUs() {
   return (
-    <section className="bg-teal-400 text-white py-6 px-9 flex flex-col gap-4 justify-between">
+    <section className="bg-teal-400 text-white py-6 px-9 tablet:py-10.25 tablet:px-10 flex flex-col gap-4 justify-between">
       <h2 className="text-[18px] leading-[115%] font-bold tracking-[-0.25px]">Why Us</h2>
 
       <ul className="opacity-75 text-[14px] leading-[145%]">

@@ -3,7 +3,7 @@ import SubscriptionWhyUs from "./SubscriptionWhyUs";
 
 function SubscriptionSection() {
   return (
-    <div className="grid grid-rows-2">
+    <div className="grid grid-rows-2 tablet:grid-rows-none tablet:grid-cols-2">
       <SubscriptionDetails />
       <SubscriptionWhyUs />
     </div>

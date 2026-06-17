@@ -1,6 +1,6 @@
 function SubscriptionDetails() {
   return (
-    <section className="bg-teal-500 text-white py-6 px-9 flex flex-col gap-4 justify-between">
+    <section className="bg-teal-500 text-white py-6 px-9 tablet:py-10.25 tablet:px-10 flex flex-col gap-4 justify-between">
       <div className="flex flex-col gap-4">
         <h2 className="text-[18px] leading-[115%] tracking-[-0.25px] font-bold">Monthly Subscription</h2>
 

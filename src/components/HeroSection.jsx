@@ -1,6 +1,6 @@
 function HeroSection() {
   return (
-    <section className="bg-white p-9.5 flex flex-col gap-6">
+    <section className="bg-white p-9.5 tablet:pl-10 tablet:pr-20 tablet:py-11 flex flex-col gap-6">
       <h1 className="text-teal-500 text-[24px] leading-[115%] tracking-[-0.25px] font-bold">Join our community</h1>
 
       <div className="flex flex-col gap-2">
