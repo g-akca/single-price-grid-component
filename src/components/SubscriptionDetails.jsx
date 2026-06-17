@@ -15,7 +15,13 @@ function SubscriptionDetails() {
         </div>
       </div>
 
-      <button type="button" className="bg-green-400 p-2 h-12 rounded-[5px] leading-[145%] tracking-[-0.25px] font-bold shadow-[0_10px_10px_rgba(0,0,0,0.1)]">
+      <button 
+        type="button" 
+        className="
+          bg-green-400 p-2 h-12 rounded-[5px] leading-[145%] tracking-[-0.25px] font-bold shadow-[0_10px_10px_rgba(0,0,0,0.1)] 
+          cursor-pointer transition-all duration-300 hover:bg-green-400/75
+        "
+      >
         Sign Up
       </button>
     </section>
